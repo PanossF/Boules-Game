@@ -7,4 +7,15 @@ The graphics of the game are simple but the code is complex, so this application
 
 
 To run the game:
-open a cmd window and execute ThreadedServer.exe with these parameters
+1. open a cmd window and execute ThreadedServer.exe with a parameter of a random port (for example 5555)
+2. it will open 2 connections because I set it to with these settings!
+3. open 2 new cmd windows and run the BoulesGame.exe with the keyword "localhost" and next to it the port numbers that Server opened( in this case one windows will have 5555 and the other one 5556)
+4. write 2 random names and then press any key and enter.
+
+Then the game runs for each client in the server.
+
+To play the game:
+Pressing the arrow keys, the direction of the ball changes
+Press enter to hit the ball
+Once all balls are released, then press enter to get the results
+THe results are displayed in the cmd window. Messages are sent also to the server.
