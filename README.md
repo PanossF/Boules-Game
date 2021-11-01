@@ -15,7 +15,7 @@ To run the game:
 Then the game runs for each client in the server.
 
 To play the game:
-Pressing the arrow keys, the direction of the ball changes
-Press enter to hit the ball
-Once all balls are released, then press enter to get the results
-THe results are displayed in the cmd window. Messages are sent also to the server.
+1. Pressing the arrow keys, the direction of the ball changes
+2. Press enter to hit the ball
+3. Once all balls are released, then press enter to get the results
+4. The results are displayed in the cmd window. Messages are sent also to the server.
